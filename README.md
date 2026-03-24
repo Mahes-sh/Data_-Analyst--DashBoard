@@ -17,25 +17,25 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 -DaashBoard Interaction <a href="https://github.com/Mahes-sh/Data_-Analyst--DashBoard/blob/main/Screenshot%202026-03-24%20215810.png">View Dashboard</a>
 
-##Process
+## Process
 
 -Verify data for any missing values and anomalies, and sort out the same.
 -Made sure data is consistent and clean with respect to data type, data format and values used.
 -Created pivot tables according to the questions asked.
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-##Dashboard
+## Dashboard
 
 <img width="896" height="449" alt="Screenshot 2026-03-24 215810" src="https://github.com/user-attachments/assets/b3f9e3ef-f05d-4b87-b8bd-608efb9bc37e" />
 
-##project Insight
+## Project Insight
 
 -Women are more likely to buy compared to men (~65%)
 -Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
 -Adult age group (30–49 yrs) is max contributing (~50%)
 -Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-##Final Conclusion
+## Final Conclusion
 
 Target women customers of age group (30–49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
